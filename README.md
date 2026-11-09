@@ -1,6 +1,6 @@
 ### Hi, I'm Aisha👋
 > Helping people make sense of their data 
-- **Data Analytics Consultant** at [The information Lab](https://www.theinformationlab.co.uk/)
+- **Data Analytics Consultant** at [The Information Lab](https://www.theinformationlab.co.uk/)
 - Experienced in building interactive dashboards and automated reports
 - Skills: Data Analysis, Data Visualisation, Data Transformation, Tableau, PBI, Alteryx
 - LLB in *Law* from The University of Warwick
@@ -67,4 +67,4 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rosh-k-/) [![Email](https://img.shields.io/badge/Email-name@gmail.com-red?logo=gmail)](mailto:name@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aishasenkubuge/) [![Email](https://img.shields.io/badge/Email-name@gmail.com-red?logo=gmail)](mailto:name@gmail.com)
