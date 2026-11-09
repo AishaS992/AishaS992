@@ -49,7 +49,7 @@
 
 <div align="center">
 <a href="https://public.tableau.com/app/profile/aisha.senkubuge/viz/PremierLeague202122AttackingPerformanceAnalysis/FINISHING">
-<img src="https://public.tableau.com/static/images/Pr/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
+<img src="https://public.tableau.com/app/profile/aisha.senkubuge/viz/PremierLeague202122AttackingPerformanceAnalysis/FINISHING/4_3.png" width="40%"> 
 
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard">
 <img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="40%">
