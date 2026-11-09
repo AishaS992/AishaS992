@@ -29,7 +29,7 @@
     <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
     <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
-    <img src="https://learn.microsoft.com/en-gb/users/aishasenkubuge-6211/credentials/490c1cf5c1133d93">
+    <img src="https://learn.microsoft.com/en-gb/users/aishasenkubuge-6211/credentials/490c1cf5c1133d93" width="12.5%">
 <div>
 
 ---
@@ -38,7 +38,7 @@
 
 | Name                  | Description                                                                 | Tools                                   | Skills                          |
 |-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
-| [F1 Visualisation](www.google.com)      | Built a dashboard analysing player stats from Premier League 2021/22 season. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
+| [Attacking Performance 2021/22 Season](www.google.com)      | Built a dashboard analysing player stats from Premier League 2021/22 season. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
 | [API Pipeline](www.google.com)          | Developed an automated pipeline ETL data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
 | [Bookstore WebScraping](www.google.com) | Created a web scraper to collect data from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
 | [SQL Staging](www.google.com)           | Designed and maintained staging tables to prepare raw data for analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
