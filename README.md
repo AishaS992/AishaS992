@@ -38,7 +38,7 @@
 
 | Name                  | Description                                                                 | Tools                                   | Skills                          |
 |-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
-| [Attacking Performance 2021/22 Season](www.google.com)      | Built a dashboard analysing player stats from Premier League 2021/22 season. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
+| [Attacking Performance 2021/22 Season](https://public.tableau.com/app/profile/aisha.senkubuge/viz/PremierLeague202122AttackingPerformanceAnalysis/FINISHING)      | Built a dashboard analysing player stats from Premier League 2021/22 season. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
 | [API Pipeline](www.google.com)          | Developed an automated pipeline ETL data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
 | [Bookstore WebScraping](www.google.com) | Created a web scraper to collect data from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
 | [SQL Staging](www.google.com)           | Designed and maintained staging tables to prepare raw data for analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
